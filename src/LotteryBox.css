@@ -1,0 +1,17 @@
+.LotteryBox{
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    border : 3px solid #636332;
+    border-radius: 20%;
+    width: 700px;
+    margin-top: 20px;
+    padding-bottom: 20px;
+    
+}
+.LotteryBoxBall{
+    display :flex;
+  
+    align-items: center;
+
+}
